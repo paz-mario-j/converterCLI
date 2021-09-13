@@ -1,3 +1,5 @@
+![Capture3](https://user-images.githubusercontent.com/86253070/133163082-f91c5d3c-30e3-42ca-a21c-1907bb470683.PNG)
+![Capture3](https://user-images.githubusercontent.com/86253070/133163104-c5da8187-539e-431f-bbb7-a217ff1c6494.PNG)
 # converterCLI
 ## Introduction
 This project uses a CLI to convert a variety of things.
@@ -17,3 +19,4 @@ This is a command line application.
 
 ## Visuals
 
+![Capture3](https://user-images.githubusercontent.com/86253070/133163150-919b2b0b-7dda-4d64-96dc-36fcd28368f5.PNG)
